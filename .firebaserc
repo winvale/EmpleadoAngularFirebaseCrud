@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "empleados-9f973": {
+      "hosting": {
+        "empleados": [
+          "empleados-9f973"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "empleados-9f973"
+  }
+}
